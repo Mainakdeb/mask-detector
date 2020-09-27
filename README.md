@@ -27,8 +27,7 @@ A Flutter based mobile application that uses the front camera to detect face mas
   <li>Connect to emulator or mobile through USB to use the app after running  successfully</li>
 </ul>
 <h3>Adding Gif And screenshots Of the Application:-</h3>
-------
-
+---
 ### Welcome Screen
 
 ![image](https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png)
