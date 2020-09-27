@@ -1,5 +1,5 @@
 ## Mask-Detector 
-A Flutter based mobile application that uses the front camera to detect face masks and reminds the user if he/she is not wearing a mask. 
+A Flutter based mobile application that uses the camera to detect face masks and reminds the user if he/she is not wearing a mask. 
 
 
 ### Plugins Used :rocket: ##
@@ -26,6 +26,14 @@ A Flutter based mobile application that uses the front camera to detect face mas
   <li>Go to the flutter-app folder.That is the main project</li>
   <li>Connect to emulator or mobile through USB to use the app after running  successfully</li>
 </ul>
+<h3> Possible Errors </h3>
+<ul>
+  
+  <li>If you get compatibility issues go to android folder, right click and click on migrate and then migrate project to Android X.</li>
+  <li>Some plugins might require minSdkVersion 21 so make sure to change that in build.gradle file.</li>
+  <li>Before running the app go to pubspec.yaml file and click on the light bolt sign in the dependencies section and it will suggest to run pub get.Press on it so that you have the dependencies installed</li>
+  <li>Make sure you have given access for installing through USB.If not change it in developer options in your mobile.</li>
+ </ul>
 <h3>Adding Gif And screenshots Of the Application:-</h3>
 
 ### Welcome Screen
