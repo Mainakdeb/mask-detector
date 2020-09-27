@@ -1,6 +1,6 @@
 ## Mask-Detector 
 ### Live demo via Laptop webcam:
-<img src="https://github.com/Mainakdeb/mask-detector/blob/master/gifs/laptop-webcam-demo.gif" width=40% height=40%>
+<img src="https://github.com/Mainakdeb/mask-detector/blob/master/gifs/laptop-webcam-demo.gif" width=50% height=50%>
 
 ### Live demo via smartphone:
 <img src="https://github.com/Mainakdeb/mask-detector/blob/master/gifs/mobile-app-demo.gif" width=20% height=20%>
