@@ -2,19 +2,21 @@
 A Flutter based mobile application that uses the front camera to detect face masks and reminds the user if he/she is not wearing a mask. 
 
 
-## Plugins Used :rocket: ##
+### Plugins Used :rocket: ##
 <ul>
   <li><a href ='https://pub.dev/packages/cupertino_icons'>Cupertino Icons</a></li>
   <li><a href='https://pub.dev/packages/camera'>Camera</a></li>
   <li><a href='https://pub.dev/packages/image_picker'>Image-Picker</a></li>
   <li><a href='https://pub.dev/packages/tflite'>Tflite</a></li>
  </ul>
-### How does the Android Application work:-
-- At first we open the application.
-- After opening you will be welcomed by a nice UI.
-- You see two options either to predict using an existing image or by live camera.
-- you choose the method you prefer
-- You will be able to see whether you are wearing mask or not.
+<h3>How does the Android Application work:</h3>
+<ul>
+  <li> At first we open the application.</li>
+  <li>After opening you will be welcomed by a nice UI.</li>
+  <li>You see two options either to predict using an existing image or by live camera.</li>
+  <li>you choose the method you prefer</li>
+  <li>You will be able to see whether you are wearing mask or not.</li>
+  </ul>
 
 ### Adding Gif And screenshots Of the Application:-
 
