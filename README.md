@@ -1,4 +1,4 @@
-# mask-detector
+# Mask-Detector
 # Mobile-Mask-Detector 
 A Flutter based mobile application that uses the front camera to detect face masks and reminds the user if he/she is not wearing a mask. 
 
