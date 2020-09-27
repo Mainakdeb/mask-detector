@@ -16,9 +16,17 @@ A Flutter based mobile application that uses the front camera to detect face mas
   <li>You see two options either to predict using an existing image or by live camera.</li>
   <li>you choose the method you prefer</li>
   <li>You will be able to see whether you are wearing mask or not.</li>
-  </ul>
-
-### Adding Gif And screenshots Of the Application:-
+ </ul>
+<h3> Steps for using</h3>
+<ul>
+  <li>Clone the repo</li>
+  <li>Open Android Studio</li>
+  <li>Open Project</li>
+  <li>Go to the location where you have saved the project</li>
+  <li>Go to the flutter-app folder.That is the main project</li>
+  <li>Connect to emulator or mobile through USB to use the app after running  successfully</li>
+</ul>
+<h3>Adding Gif And screenshots Of the Application:-</h3>
 
 ### Welcome Screen
 
