@@ -33,11 +33,14 @@ A Flutter based mobile application that uses the front camera to detect face mas
 ### Welcome Screen
 
 ![image](https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png)
+
+***
+
 ### Predict By Image
 ![image](https://user-images.githubusercontent.com/53183532/94363440-bb98ea80-00df-11eb-81c1-3e9cb67cb5cd.png)
 
 
-
+***
 
 ### Group-Members On Board:-
 - Mainak Deb
