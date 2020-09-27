@@ -41,16 +41,11 @@ A Flutter based mobile application that uses the camera or the gallery to detect
  <li><a href='https://pub.dev/'>Pub.dev for plugins</a>
  <li><a href="https://dart.dev/get-dart">Dart SDK</a></li>
  </ul>
-<h3>Adding Gif And screenshots Of the Application:-</h3>
-
-### Welcome Screen
-
-![image](https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png)
-### Predict By Image
-![image](https://user-images.githubusercontent.com/53183532/94363440-bb98ea80-00df-11eb-81c1-3e9cb67cb5cd.png)
-
-
-
+<h3>Screenshots of the App</h3>
+<h4>Welcome Screen</h4>
+<img src="https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png" width=50% height=50%>
+<h3>Predict By Image</h3>
+<img src="https://user-images.githubusercontent.com/53183532/94363440-bb98ea80-00df-11eb-81c1-3e9cb67cb5cd.png" width=50% height=50%>
 
 ### Group-Members On Board:-
 - Mainak Deb
