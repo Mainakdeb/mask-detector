@@ -8,7 +8,7 @@ A Flutter based mobile application that uses the front camera to detect face mas
 - At first we open the application.
 - After opening you will be welcomed by a nice UI.
 - You see two options either to predict using an existing image or by live camera.
-- you choose the method you prefer
+- you choose the method you prefer.
 - You will be able to see whether you are wearing mask or not.
 
 ## Group-Members On Board:-
