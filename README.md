@@ -1,4 +1,10 @@
 ## Mask-Detector 
+### Live demo via Laptop webcam:
+<img src="https://github.com/Mainakdeb/mask-detector/blob/master/gifs/laptop-webcam-demo.gif" width=40% height=40%>
+
+### Live demo via smartphone:
+<img src="https://github.com/Mainakdeb/mask-detector/blob/master/gifs/mobile-app-demo.gif" width=20% height=20%>
+
 
 Our solution contains 2 packages
 1. A computer vision based script that detects specific facial features from a video feed. It determines the of the person/persons in the video frame is wearing a face mask or not within milliseconds for each frame input and requires minimal computational resources for each iteration. 
