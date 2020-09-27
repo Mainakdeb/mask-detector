@@ -12,7 +12,7 @@ A Flutter based mobile application that uses the camera or the gallery to detect
 <h3>How does the Android Application work:</h3>
 <ul>
   <li> At first we open the application.</li>
-  <li>After opening you will be welcomed by a nice UI.</li>
+  <li>After opening you will be welcomed by the main page UI.</li>
   <li>You see two options either to predict using an existing image or by live camera.</li>
   <li>you choose the method you prefer</li>
   <li>You will be able to see whether you are wearing mask or not.</li>
