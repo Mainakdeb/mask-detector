@@ -1,8 +1,12 @@
 ## Mask-Detector 
-A Flutter based mobile application that uses the camera or the gallery to detect face masks and reminds the user if he/she is not wearing a mask. 
+
+Our solution contains 2 packages
+1. A computer vision based script that detects specific facial features from a video feed. It determines the of the person/persons in the video frame is wearing a face mask or not within milliseconds for each frame input and requires minimal computational resources for each iteration. 
+
+2. A Flutter based mobile application that uses the camera or the gallery to detect face masks and reminds the user if he/she is not wearing a mask. 
 
 
-### Plugins Used :rocket: ##
+### Plugins Used for the flutter app:rocket: ##
 <ul>
   <li><a href ='https://pub.dev/packages/cupertino_icons'>Cupertino Icons</a></li>
   <li><a href='https://pub.dev/packages/camera'>Camera</a></li>
