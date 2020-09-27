@@ -47,9 +47,9 @@ Our solution contains 2 packages
  </ul>
 <h3>Screenshots of the App</h3>
 <h4>Welcome Screen</h4>
-<img src="https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png" width=50% height=50%>
-<h3>Predict By Image</h3>
-<img src="https://user-images.githubusercontent.com/53183532/94363440-bb98ea80-00df-11eb-81c1-3e9cb67cb5cd.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/53183532/94363423-a15f0c80-00df-11eb-8b5f-3d2da1dbe440.png" width=20% height=20%>
+<h4>Predict By Image</h4>
+<img src="https://user-images.githubusercontent.com/53183532/94363440-bb98ea80-00df-11eb-81c1-3e9cb67cb5cd.png" width=20% height=20%>
 
 ### Group-Members On Board:-
 - Mainak Deb
