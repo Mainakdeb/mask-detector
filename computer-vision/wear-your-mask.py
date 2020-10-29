@@ -3,12 +3,9 @@ import numpy
 
 face_haar_cascade = cv2.CascadeClassifier('./haar-cascades/haarcascade_frontalface_alt2.xml')
 
-# or './haar-cascades/haarcascade_frontalface_alt2.xml'
-
 cap=cv2.VideoCapture(0)
 
 while True:
-    
     ret,test_img=cap.read()
     if not ret:
         continue
@@ -34,6 +31,8 @@ while True:
     cv2.imshow('',test_img)    
     
     if cv2.waitKey(10) == ord('q'):
-        
+        """
+        break the loop and destroy windows 
+        """
         cv2.destroyAllWindows()
         break
